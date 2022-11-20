@@ -22,6 +22,6 @@
 <h4><strong>You can contact us about all the bugs, suggestions and complaints you find in the game from the Discord section.&nbsp;&nbsp;</strong></h4>
 <h4><strong><br></strong></h4>
 <h4><strong>Discord :&nbsp;ichuusy#2655 (If you don't find this account please write Solita#2655)</strong></h4>
-<img src="https://img.itch.zone/aW1hZ2UvMTc5OTk1OS8xMDU3MzM5MS5wbmc=/original/0CxuD3.png">
-<img src="https://img.itch.zone/aW1hZ2UvMTc5OTk1OS8xMDU3MzM5My5wbmc=/original/i6RSM8.png">
-<img src="https://img.itch.zone/aW1hZ2UvMTc5OTk1OS8xMDU3MzM5Ni5wbmc=/original/AnphR5.png">
+<img src="https://img.itch.zone/aW1hZ2UvMTc5OTk1OS8xMDU3MzM5MS5wbmc=/original/0CxuD3.png" width="1280" height="720">
+<img src="https://img.itch.zone/aW1hZ2UvMTc5OTk1OS8xMDU3MzM5My5wbmc=/original/i6RSM8.png" width="1280" height="720">
+<img src="https://img.itch.zone/aW1hZ2UvMTc5OTk1OS8xMDU3MzM5Ni5wbmc=/original/AnphR5.png" width="1280" height="720">
